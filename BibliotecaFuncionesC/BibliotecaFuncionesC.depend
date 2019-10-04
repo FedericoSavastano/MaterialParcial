@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570157023 source:d:\progrmacion nuevo\bibliotecac\bibliotecafuncionesc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1570157797 d:\progrmacion nuevo\bibliotecac\bibliotecafuncionesc\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1570157769 source:d:\progrmacion nuevo\bibliotecac\bibliotecafuncionesc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
