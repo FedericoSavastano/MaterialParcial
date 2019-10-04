@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570191242 source:d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570191790 source:d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
+1570191807 d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\arrayemployees.h
+
+1570191135 d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\func.h
+
