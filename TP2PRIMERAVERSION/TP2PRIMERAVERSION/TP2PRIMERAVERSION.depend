@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1570167411 source:d:\progrmacion nuevo\practica parcial\tp2primeraversion\tp2primeraversion\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"estructuras.h"
+
+1570165254 d:\progrmacion nuevo\practica parcial\tp2primeraversion\tp2primeraversion\funciones.h
+
+1570167231 d:\progrmacion nuevo\practica parcial\tp2primeraversion\tp2primeraversion\estructuras.h
+
+1570165329 source:d:\progrmacion nuevo\practica parcial\tp2primeraversion\tp2primeraversion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570167319 source:d:\progrmacion nuevo\practica parcial\tp2primeraversion\tp2primeraversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"estructuras.h"
+

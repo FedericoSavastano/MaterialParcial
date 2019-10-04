@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1570160762 source:d:\progrmacion nuevo\practica parcial\practicaparcial 01\practicaparcial01\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570163652 source:d:\progrmacion nuevo\practica parcial\practicaparcial 01\practicaparcial01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"estructuras.h"
+
+1570162469 d:\progrmacion nuevo\practica parcial\practicaparcial 01\practicaparcial01\funciones.h
+
+1570164478 d:\progrmacion nuevo\practica parcial\practicaparcial 01\practicaparcial01\estructuras.h
+
+1570164453 source:d:\progrmacion nuevo\practica parcial\practicaparcial 01\practicaparcial01\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"funciones.h"
+
