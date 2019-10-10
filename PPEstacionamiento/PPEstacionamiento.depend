@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1570682273 source:d:\progrmacion nuevo\practicaparcialestacionamiento\ppestacionamiento\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"estructuras.h"
+
+1570669516 d:\progrmacion nuevo\practicaparcialestacionamiento\ppestacionamiento\funciones.h
+
+1570680909 d:\progrmacion nuevo\practicaparcialestacionamiento\ppestacionamiento\estructuras.h
+
+1570669517 source:d:\progrmacion nuevo\practicaparcialestacionamiento\ppestacionamiento\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570682737 source:d:\progrmacion nuevo\practicaparcialestacionamiento\ppestacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"estructuras.h"
+
